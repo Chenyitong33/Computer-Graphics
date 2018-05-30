@@ -1,0 +1,6 @@
+﻿  Project.cpp
+c:\users\frankie\documents\visual studio 2017\projects\maze\maze\project.cpp(559): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+  Bitmap.cpp
+  正在生成代码...
+  maze.vcxproj -> C:\Users\frankie\Documents\Visual Studio 2017\Projects\maze\Debug\maze.exe
+  maze.vcxproj -> C:\Users\frankie\Documents\Visual Studio 2017\Projects\maze\Debug\maze.pdb (Partial PDB)
